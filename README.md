@@ -16,8 +16,8 @@ In this work, we employed a space-time sliding-patch analysis approach that auto
 
 This repository provides the code to perform the following on a representative myocardial perfusion image series:
 
-- Patch decompostion and combination steps for patch-level segmentation and uncertainty map generation as a byproduct
-- Choosing the model from a representative model pool with the lowest uncertainty as part of DAUGS analysis for robust segmentation of myocardial segmentation datasets
+- Patch decompostion and combination steps for (1) patch-level segmentation and (2) uncertainty map generation as a byproduct
+- Choosing the model from a representative model pool with the lowest uncertainty as part of DAUGS analysis for robust segmentation of myocardial perfusion datasets
 
 
 ### Contact
