@@ -6,8 +6,8 @@ Fully automatic analysis of first-pass myocardial perfusion MRI datasets enables
 
 In this work, we employed a space-time sliding-patch analysis approach that automatically yields a pixel-wise "uncertainty map" as a byproduct of the segmentation process. In our approach, dubbed *Data-adaptive Uncertainty-guided Space-time (DAUGS) analysis*, the output of all members of the DNN pool are computed and the accompanying uncertainty maps are leveraged to automatically choose the “best” result. 
 
-This work has been published in the *Journal of Cardiovascular Magnetic Resonance,* freely accessible PDF here: https://www.journalofcmr.com/article/S1097-6647(24)01109-8/fulltext
-This work has been highlighted by the JCMR editor-in-chief in the following LinkedIn post with a video description: <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7323363654588915712" height="1297" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+This work has been published in the *Journal of Cardiovascular Magnetic Resonance,* freely accessible PDF here: https://www.journalofcmr.com/article/S1097-6647(24)01109-8/fulltext. 
+This work has been highlighted by the JCMR editor-in-chief in the following LinkedIn post with a video description: <src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7323363654588915712" height="1297" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
 
 ## Overview
 
