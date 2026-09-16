@@ -23,4 +23,7 @@ This repository provides the code to perform the following on a representative m
 
 
 ### Contact
-Dilek M. Yalcinkaya (dyalcink@purdue.edu)
+Dilek M. Yalcinkaya (dyalcink@purdue.edu) \
+Behzad Sharif (bsharif@purdue.edu & bsharif@iu.edu).  
+
+
